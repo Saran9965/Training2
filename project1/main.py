@@ -1,3 +1,6 @@
+# pip install gunicorn - host a project in website
+# pip freeze > requirement.txt - packages in hosting
+
 
 import pickle
 from flask import Flask, render_template, request
